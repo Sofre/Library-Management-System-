@@ -80,8 +80,8 @@
             <mxPoint x="130" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1T8DP2s5063KryROqJGt-18" value="ADD students&lt;div&gt;TO BASE and registers to BASE&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="310" width="200" height="60" as="geometry" />
+        <mxCell id="1T8DP2s5063KryROqJGt-18" value="ADD students&lt;div&gt;TO BASE , registers to BASE WITH DATE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="310" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1T8DP2s5063KryROqJGt-19" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=none;elbow=vertical;startArrow=block;startFill=1;strokeColor=#545B64;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
